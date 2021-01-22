@@ -1,5 +1,5 @@
 {
-  "name": "@hmscore/cordova-plugin-hms-push",
+  "name": "cordova-plugin-hms-push",
   "description": "Huawei Push Cordova Plugin",
   "version": "5.0.2-301",
   "types": "types/index.d.ts",
